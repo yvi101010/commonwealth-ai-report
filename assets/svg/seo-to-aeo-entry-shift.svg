@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">SEO 到 AEO 流量入口轉移圖</title>
+  <desc id="desc">比較傳統 SEO 與 AI 答案引擎路徑，並提醒曝光不等於點擊或收入。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f8f8c" />
+    </marker>
+    <marker id="arrow-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d86545" />
+    </marker>
+  </defs>
+  <rect width="980" height="560" fill="#fbfaf7" />
+  <text x="48" y="62" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="800" fill="#18212f">SEO 到 AEO：流量入口正在改變</text>
+  <text x="48" y="94" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="15" fill="#5c6878">媒體不只要被搜尋引擎找到，也要被答案引擎辨識、摘要與引用。</text>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <rect x="56" y="138" width="384" height="268" rx="10" fill="#ffffff" stroke="#d8dde3" />
+    <text x="84" y="180" font-size="22" font-weight="800" fill="#18212f">傳統 SEO 路徑</text>
+    <g fill="#f2f8f7" stroke="#c9e3df">
+      <rect x="96" y="220" width="120" height="52" rx="8" />
+      <rect x="260" y="220" width="120" height="52" rx="8" />
+      <rect x="178" y="318" width="120" height="52" rx="8" />
+    </g>
+    <g font-size="15" font-weight="700" fill="#29444a" text-anchor="middle">
+      <text x="156" y="252">使用者搜尋</text>
+      <text x="320" y="252">點進網站</text>
+      <text x="238" y="350">訂閱或廣告</text>
+    </g>
+    <g stroke="#0f8f8c" stroke-width="3" fill="none" marker-end="url(#arrow)">
+      <path d="M216 246 H252" />
+      <path d="M320 274 C320 308 258 300 248 318" />
+    </g>
+
+    <rect x="540" y="138" width="384" height="268" rx="10" fill="#ffffff" stroke="#d8dde3" />
+    <text x="568" y="180" font-size="22" font-weight="800" fill="#18212f">AEO／答案引擎路徑</text>
+    <g fill="#fff4ef" stroke="#f0c9ba">
+      <rect x="580" y="220" width="120" height="52" rx="8" />
+      <rect x="744" y="220" width="120" height="52" rx="8" />
+      <rect x="662" y="318" width="120" height="52" rx="8" />
+    </g>
+    <g font-size="15" font-weight="700" fill="#6c382b" text-anchor="middle">
+      <text x="640" y="252">使用者提問</text>
+      <text x="804" y="252">AI 整理答案</text>
+      <text x="722" y="350">可能不回站</text>
+    </g>
+    <g stroke="#d86545" stroke-width="3" fill="none" marker-end="url(#arrow-coral)">
+      <path d="M700 246 H736" />
+      <path d="M804 274 C804 310 744 300 734 318" />
+    </g>
+  </g>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <rect x="221" y="448" width="538" height="58" rx="10" fill="#18212f" />
+    <text x="490" y="472" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">被看見不等於被點擊；被引用不等於被變成收入。</text>
+    <text x="490" y="496" font-size="14" fill="#b7e8e4" text-anchor="middle">AEO 是入口變化，不是商業成功的自動保證。</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">結論三段證據條</title>
+  <desc id="desc">工作流程已改變，組織治理形成中，商業模式邏輯改變但收入結構未證明重組。</desc>
+  <rect width="980" height="560" fill="#fbfaf7" />
+  <text x="48" y="62" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="800" fill="#18212f">AI Hub 是起點，不是終點</text>
+  <text x="48" y="94" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="15" fill="#5c6878">真正成熟的轉型分析，要把流程、組織、入口與收入結構分開判斷。</text>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <g transform="translate(86 146)">
+      <text x="0" y="0" font-size="20" font-weight="850" fill="#18212f">工作流程</text>
+      <rect x="0" y="22" width="808" height="42" rx="8" fill="#e7ecef" />
+      <rect x="0" y="22" width="720" height="42" rx="8" fill="#0f8f8c" />
+      <text x="26" y="50" font-size="16" font-weight="800" fill="#ffffff">已改變：資料整理、議題發想、論點檢查與搜尋優化</text>
+    </g>
+    <g transform="translate(86 252)">
+      <text x="0" y="0" font-size="20" font-weight="850" fill="#18212f">組織治理</text>
+      <rect x="0" y="22" width="808" height="42" rx="8" fill="#e7ecef" />
+      <rect x="0" y="22" width="520" height="42" rx="8" fill="#b88a2c" />
+      <text x="26" y="50" font-size="16" font-weight="800" fill="#ffffff">形成中：官方模板、個人工具、人工審核仍在磨合</text>
+    </g>
+    <g transform="translate(86 358)">
+      <text x="0" y="0" font-size="20" font-weight="850" fill="#18212f">商業模式</text>
+      <rect x="0" y="22" width="808" height="42" rx="8" fill="#e7ecef" />
+      <rect x="0" y="22" width="372" height="42" rx="8" fill="#d86545" />
+      <text x="26" y="50" font-size="16" font-weight="800" fill="#ffffff">邏輯改變，收入結構未證明重組</text>
+    </g>
+  </g>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <rect x="140" y="464" width="700" height="48" rx="10" fill="#18212f" />
+    <text x="490" y="494" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">不要把「AI 改變一切」當成結論；先問它改變的是哪一層。</text>
+  </g>
+</svg>

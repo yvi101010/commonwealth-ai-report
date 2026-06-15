@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">AI Hub 智慧採編全流程圖</title>
+  <desc id="desc">七個採編工序由不同 AI Agent 協助，最後仍需人工審核與發通路判斷。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f8f8c" />
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#18212f" flood-opacity="0.14" />
+    </filter>
+  </defs>
+  <rect width="980" height="560" fill="#fbfaf7" />
+  <text x="48" y="62" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="800" fill="#18212f">AI Hub 智慧採編全流程</text>
+  <text x="48" y="94" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="15" fill="#5c6878">AI 協助前處理與中介工序；採訪、查證、判斷與發布責任仍由人負責。</text>
+
+  <g stroke="#0f8f8c" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M218 171 H272" />
+    <path d="M442 171 H496" />
+    <path d="M666 171 H720" />
+    <path d="M834 220 C834 279 162 271 162 326" />
+    <path d="M274 374 H328" />
+    <path d="M498 374 H552" />
+  </g>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" filter="url(#shadow)">
+    <g transform="translate(48 128)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#0f8f8c" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">資料蒐集</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">採訪全紀鹿</text>
+    </g>
+    <g transform="translate(272 128)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#b88a2c" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">題目方向</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">議題發想雞</text>
+    </g>
+    <g transform="translate(496 128)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#315c92" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">寫稿</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">論點分析獅</text>
+    </g>
+    <g transform="translate(720 128)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#557f57" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">核稿</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">數據檢查猿</text>
+    </g>
+    <g transform="translate(104 326)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#d86545" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">改稿</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">標題超吸鯨</text>
+    </g>
+    <g transform="translate(328 326)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#18212f" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">審稿</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">人工審核閘門</text>
+    </g>
+    <g transform="translate(552 326)">
+      <rect width="170" height="92" rx="8" fill="#ffffff" stroke="#d8dde3" />
+      <circle cx="26" cy="30" r="13" fill="#0a6869" />
+      <text x="48" y="34" font-size="18" font-weight="800" fill="#18212f">發通路</text>
+      <text x="18" y="66" font-size="14" fill="#5c6878">AEO 流量密馬</text>
+    </g>
+  </g>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <rect x="48" y="476" width="884" height="42" rx="8" fill="#f2f8f7" stroke="#c9e3df" />
+    <text x="68" y="503" font-size="15" font-weight="700" fill="#29444a">核心判斷：AI Hub 先改變資料整理、議題發想、論點檢查與搜尋優化，不等於記者退場。</text>
+  </g>
+</svg>

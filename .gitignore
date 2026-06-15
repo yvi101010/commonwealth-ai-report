@@ -1,0 +1,6 @@
+server.err.log
+server.out.log
+preview-url.txt
+
+.DS_Store
+Thumbs.db

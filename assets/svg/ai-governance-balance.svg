@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">官方 AI 模板與個人 AI 工具治理天平</title>
+  <desc id="desc">左側是官方 AI 模板，右側是個人 AI 工具，中間由人工審核閘門作為治理底線。</desc>
+  <rect width="980" height="560" fill="#fbfaf7" />
+  <text x="48" y="62" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="800" fill="#18212f">官方 AI 與個人 AI：治理天平</text>
+  <text x="48" y="94" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="15" fill="#5c6878">AI Hub 的組織挑戰，是同時滿足標準化治理與知識工作者的自主性。</text>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <line x1="490" y1="154" x2="490" y2="394" stroke="#18212f" stroke-width="6" stroke-linecap="round" />
+    <line x1="226" y1="202" x2="754" y2="202" stroke="#18212f" stroke-width="6" stroke-linecap="round" />
+    <circle cx="490" cy="202" r="18" fill="#0f8f8c" />
+    <path d="M260 202 L178 338 H342 Z" fill="#eaf7f5" stroke="#0f8f8c" stroke-width="3" />
+    <path d="M720 202 L638 338 H802 Z" fill="#fff4ef" stroke="#d86545" stroke-width="3" />
+    <rect x="426" y="394" width="128" height="28" rx="8" fill="#18212f" />
+
+    <rect x="86" y="360" width="294" height="112" rx="10" fill="#ffffff" stroke="#d8dde3" />
+    <text x="116" y="394" font-size="22" font-weight="850" fill="#18212f">公司官方 AI 模板</text>
+    <text x="116" y="424" font-size="15" fill="#5c6878">標準化、可治理、格式一致</text>
+    <text x="116" y="450" font-size="15" fill="#5c6878">資料邊界與資安較可控</text>
+
+    <rect x="600" y="360" width="294" height="112" rx="10" fill="#ffffff" stroke="#d8dde3" />
+    <text x="630" y="394" font-size="22" font-weight="850" fill="#18212f">個人 AI 工具</text>
+    <text x="630" y="424" font-size="15" fill="#5c6878">彈性高、靈感強</text>
+    <text x="630" y="450" font-size="15" fill="#5c6878">責任邊界較不清楚</text>
+
+    <rect x="374" y="244" width="232" height="90" rx="10" fill="#18212f" />
+    <text x="490" y="280" font-size="22" font-weight="850" fill="#ffffff" text-anchor="middle">人工審核閘門</text>
+    <text x="490" y="310" font-size="15" fill="#b7e8e4" text-anchor="middle">查證、編輯、發布責任</text>
+  </g>
+</svg>

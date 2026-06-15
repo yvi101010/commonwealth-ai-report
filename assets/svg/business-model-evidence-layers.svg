@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">商業模式三層證據圖</title>
+  <desc id="desc">用價值創造、價值交付、價值擷取三層檢驗 AI Hub 的商業模式影響。</desc>
+  <rect width="980" height="560" fill="#fbfaf7" />
+  <text x="48" y="62" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="800" fill="#18212f">商業模式三層證據</text>
+  <text x="48" y="94" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="15" fill="#5c6878">流程與入口有改變，不代表主要收入結構已經重組。</text>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <g transform="translate(106 134)">
+      <rect width="768" height="96" rx="12" fill="#eaf7f5" stroke="#b9dfda" />
+      <circle cx="48" cy="48" r="24" fill="#0f8f8c" />
+      <text x="48" y="55" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">1</text>
+      <text x="92" y="42" font-size="22" font-weight="850" fill="#18212f">價值創造：已明顯改變</text>
+      <text x="92" y="70" font-size="15" fill="#5c6878">內容供給效率、資料整理、逐字稿處理、AI 協作、標題與 AEO 建議。</text>
+    </g>
+    <g transform="translate(106 250)">
+      <rect width="768" height="96" rx="12" fill="#fff6df" stroke="#ead6a3" />
+      <circle cx="48" cy="48" r="24" fill="#b88a2c" />
+      <text x="48" y="55" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">2</text>
+      <text x="92" y="42" font-size="22" font-weight="850" fill="#18212f">價值交付：已開始改變</text>
+      <text x="92" y="70" font-size="15" fill="#5c6878">SEO／AEO、AI 搜尋入口、內容可見度與競媒比較。</text>
+    </g>
+    <g transform="translate(106 366)">
+      <rect width="768" height="96" rx="12" fill="#fff1eb" stroke="#efc5b6" />
+      <circle cx="48" cy="48" r="24" fill="#d86545" />
+      <text x="48" y="55" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">3</text>
+      <text x="92" y="42" font-size="22" font-weight="850" fill="#18212f">價值擷取：尚未證明重組</text>
+      <text x="92" y="70" font-size="15" fill="#5c6878">廣告、訂閱、會員、課程與活動等收入結構仍缺乏改寫證據。</text>
+    </g>
+  </g>
+
+  <g font-family="Noto Sans TC, Microsoft JhengHei, sans-serif">
+    <line x1="80" y1="496" x2="900" y2="496" stroke="#d8dde3" stroke-width="2" />
+    <text x="490" y="526" font-size="15" font-weight="800" fill="#18212f" text-anchor="middle">審慎結論：AI Hub 已改變底層運作邏輯，但還不能直接寫成主要收入結構重組。</text>
+  </g>
+</svg>
