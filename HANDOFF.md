@@ -18,10 +18,13 @@
 
 2026-06-16 補充：依使用者要求，已清理不需要上傳到 GitHub 的預覽暫存檔 `server.err.log`、`server.out.log`、`preview-url.txt`，並新增 `.gitignore` 防止它們之後誤入版控。
 
+2026-06-16 補充：使用者已建立 GitHub repository `https://github.com/yvi101010/commonwealth-ai-report.git`。本次將本機 Git 分支改為 `main`，並以該 repository 作為 `origin` 推送。
+
 ## 已完成項目
 
 - 2026-06-16 補充：依使用者要求，專案第一層已補齊 `style.css` 與 `script.js`，並將 `index.html` 改成引用第一層主檔。`css/` 與 `js/` 子資料夾保留作為維護來源。
 - 2026-06-16 補充：本資料夾原本不是 Git repo；本次在此專案資料夾內初始化 Git，並提交目前完整靜態網站。
+- 2026-06-16 補充：確認 `index.html` 位於 repository 第一層，符合 GitHub Pages 與靜態網站部署需求。
 - `index.html`：重建六段式互動報告頁，包含 Hero、破冰卡片、採編流程、治理天平、AEO 風險、商業模式三層證據、結論測驗與資料說明。
 - `css/styles.css`：重建版面、響應式設計、卡片、圖表框、手機導覽與互動控制樣式。
 - `js/app.js`：處理閱讀進度、導覽高亮、破冰卡片、治理切換與測驗。
